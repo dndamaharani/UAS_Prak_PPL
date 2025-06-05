@@ -91,13 +91,8 @@ Login admin dapat diakses di:
 
 ---
 
-## 📃 Lisensi
-
-Proyek ini dikembangkan untuk keperluan pembelajaran dan tugas akademik. Hak cipta dimiliki oleh pengembang terkait.
-
----
 
 ## ✍️ Pengembang
 
 - Proyek Akhir – Praktikum PPL
-- Dikembangkan oleh: **[Nama Anda / Tim Anda]**
+- Dikembangkan oleh: **[CUNDA]**
