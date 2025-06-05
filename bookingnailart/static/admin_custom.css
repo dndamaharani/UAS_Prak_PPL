@@ -1,0 +1,20 @@
+/* Ubah warna latar belakang header admin */
+#header {
+    background-color: #ffc0cb; /* Pink muda */
+}
+
+/* Ubah warna teks header */
+#header h1, #header a {
+    color: white !important;
+}
+
+/* Ubah warna tombol dan link */
+.module h2, .module caption, .inline-group h2 {
+    color: #d63384; /* Magenta */
+}
+
+/* Ubah warna tabel dan kotak */
+.module, .grp-module {
+    border: 1px solid #f8bbd0;
+    background-color: #fff0f5;
+}

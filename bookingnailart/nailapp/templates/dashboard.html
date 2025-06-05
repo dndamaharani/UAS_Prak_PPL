@@ -1,0 +1,25 @@
+v{% extends 'base.html' %}
+
+{% block content %}
+<h4>Dashboard Admin</h4>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nama</th>
+            <th>Tanggal</th>
+            <th>Layanan</th>
+            <th>Catatan</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for b in bookings %}
+        <tr>
+            <td>{{ b.nama_pelanggan }}</td>
+            <td>{{ b.tanggal }}</td>
+            <td>{{ b.layanan.nama }}</td>
+            <td>{{ b.catatan }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
