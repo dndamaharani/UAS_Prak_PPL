@@ -1,4 +1,3 @@
-
 # 💅 Aplikasi Web Booking Nail Art
 
 Aplikasi web untuk sistem pemesanan layanan **nail art**, dikembangkan menggunakan **Django**. Aplikasi ini memudahkan pelanggan dalam melakukan booking secara online dan membantu penyedia layanan dalam mengelola jadwal serta data pelanggan dengan lebih efisien.
